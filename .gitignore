@@ -1,0 +1,5 @@
+# RaceMenu's meshes (patched copies) stay local
+meshes/
+out/
+*.nif
+*.zip
